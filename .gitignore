@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# NetBeans private settings
+nbproject/private/
+nbactions.xml
+
+# Invoices generated while running the application
+invoices/
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
